@@ -1,3 +1,8 @@
+"Tokenization is a concept of NLP, which is a process of breaking down text into smaller units.
+These tokens can be words, subwords, characters, or even sentences, depending on the use case."
+
+
+
 import re
 import collections
 
