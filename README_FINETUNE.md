@@ -250,14 +250,6 @@ This code uses:
 - Mistral-7B (Apache 2.0 License)
 - Transformers, PEFT, TRL (Apache 2.0)
 
-## Next Steps
-
-1. Expand your dataset with more Alzheimer's-related examples
-2. Experiment with different LoRA configurations
-3. Try instruction-tuned base models (Mistral-7B-Instruct)
-4. Implement evaluation metrics for your specific use case
-5. Deploy the model using vLLM or HuggingFace Inference
-
 ## Support
 
 For issues or questions:
